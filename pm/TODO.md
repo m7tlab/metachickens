@@ -10,5 +10,11 @@
 - [ ] Resolve hold-click issue with DNA bottles.
 - [ ] Ensure modified DNA affects chicken offspring.
 - [ ] Add permissions.
-- [ ] Add configurations.
+- [ ] Add configuration file.
 - [ ] Add GIFs/videos to docs.
+- [ ] Make the Artificial Womb craft more expensive (like redstone)
+- [ ] Create a chance to create sterile chickens.
+- [ ] Rename spawner to Artificial Womb.
+- [ ] Add chance to some mobs born dead from the artificial womb
+  - It can be improved or worsened with custom DNA.
+- [ ] Add a way to get DNA from items too.
