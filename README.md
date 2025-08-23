@@ -10,45 +10,9 @@ The **Metachickens Plugin** is a Minecraft plugin designed to enhance gameplay b
 - **Spawner Recipes**: Craft spawners using 8 iron bars and a spawn egg of the desired mob.
 - **Silk Touch Spawners**: Harvest spawners with Silk Touch while retaining the entity type.
 
-## Requirements
+## Installing
 
-To build and run this plugin, you will need:
-
-- Git
-- JDK (Java Development Kit) 21.0.4 or higher
-- Gradle 8.10.1 or higher
-
-## Installation Guide
-
-### Build from Source
-
-1. **Clone the Repository**  
-   Clone the project repository from GitHub:
-   ```bash
-   git clone https://github.com/beduality/metachickens
-   cd metachickens
-   ```
-
-2. **Build the Plugin**  
-   Run the following command to build the plugin:
-   ```bash
-   gradle build
-   ```
-
-3. **Locate the Built Plugin**  
-   The compiled plugin will be located at `build/libs/metachickens-*.jar`.
-
-4. **Add to Your Server**  
-   Move the `metachickens-*.jar` file into the `plugins` folder of your Minecraft server.
-
-5. **Start the Server**  
-   Restart your server if it's already running. The plugin will automatically enable itself.
-
-6. **Verify Installation**  
-   Check your server logs for the message:  
-   ```
-   [Metachickens] Metachickens Plugin Enabled
-   ```
+Currently, the only way to install the plugin is to [build it from source](CONTRIBUTING.md#build-from-source).
 
 ## Configuration
 
@@ -95,3 +59,7 @@ III
 
 We welcome contributions!  
 Feel free to fork the project, submit pull requests, or report issues on our [GitHub repository](https://github.com/beduality/metachickens).
+
+---
+
+[Contribute](CONTRIBUTING.md) | [License](LICENSE)

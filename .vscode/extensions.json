@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "VisualStudioExptTeam.vscodeintellicode",
+        "redhat.java",
+        "yzhang.markdown-all-in-one",
+        "eamodio.gitlens",
+        "GitHub.copilot"
+    ],
+    "unwantedRecommendations": []
+}
