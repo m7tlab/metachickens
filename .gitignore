@@ -5,3 +5,6 @@
 build
 
 bin
+
+# myco worktree mount point (created by `myco init`)
+project/
